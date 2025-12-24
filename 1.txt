@@ -1,6 +1,2 @@
 Hi!
-<<<<<<< HEAD
-Holla!
-=======
 Holla, Niko!
->>>>>>> branch_niko
